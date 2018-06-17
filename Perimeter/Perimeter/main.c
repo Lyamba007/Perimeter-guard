@@ -1,9 +1,9 @@
 ///////////////////////////////////////
-//									 //
-// Perimeter.c						 //
-// Author : Hoha Maksym				 //	
+//				     //
+// Perimeter.c			     //
+// Author : Hoha Maksym		     //	
 // Copyright and all rights reserved //
-//									 //
+//				     //
 ///////////////////////////////////////
 
 
